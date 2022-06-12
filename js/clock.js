@@ -10,7 +10,3 @@ let aktarim = document.querySelector(".clock");
 
 change.innerHTML = isim;
 aktarim.innerHTML = ` ${saat}:${dk}:${sn}  ${gun}`;
-
-
-
-
